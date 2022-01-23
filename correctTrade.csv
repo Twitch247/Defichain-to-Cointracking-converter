@@ -1,0 +1,464 @@
+Type,"Buy Amount","Buy Cur.","Sell Amount","Sell Cur.","Fee Amount (optional)","Fee Cur. (optional)","Exchange (optional)","Trade Group (optional)","Comment (optional)",Date,Tx-ID
+"Income (non taxable)",0.00019458,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-23T17:44:59,1BTC-DFI20220123174459
+"Other Expense",,,0.00000163000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-23T17:44:59,1BTC-DFI20220123174459
+"Other Expense",,,0.02324109000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-23T17:44:59,1BTC-DFI20220123174459
+"Reward / Bonus",0.00000018000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-22T00:01:00,BTC20220122000100_Commission
+"Reward / Bonus",1.70241495000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-22T00:01:00,DFI20220122000100_Rewards
+"Reward / Bonus",0.00794247000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-22T00:01:00,DFI20220122000100_Commission
+"Income (non taxable)",8.011E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-21T15:39:19,1BTC-DFI20220121153919
+"Other Expense",,,0.00944364000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-21T15:39:19,1BTC-DFI20220121153919
+"Other Expense",,,0.00000068000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-21T15:39:19,1BTC-DFI20220121153919
+"Reward / Bonus",0.00000098000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-21T00:01:00,BTC20220121000100_Commission
+"Reward / Bonus",2.21678924000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-21T00:01:00,DFI20220121000100_Rewards
+"Reward / Bonus",0.03587626000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-21T00:01:00,DFI20220121000100_Commission
+"Income (non taxable)",8.029E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-20T15:35:08,1BTC-DFI20220120153508
+"Other Expense",,,0.00000068000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-20T15:35:08,1BTC-DFI20220120153508
+"Other Expense",,,0.00948726000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-20T15:35:08,1BTC-DFI20220120153508
+"Reward / Bonus",0.00000107000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-20T00:01:00,BTC20220120000100_Commission
+"Reward / Bonus",2.28379356000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-20T00:01:00,DFI20220120000100_Rewards
+"Reward / Bonus",0.02721785000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-20T00:01:00,DFI20220120000100_Commission
+"Income (non taxable)",9.931E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-19T15:25:54,1BTC-DFI20220119152554
+"Other Expense",,,0.00000084000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-19T15:25:54,1BTC-DFI20220119152554
+"Other Expense",,,0.01174721000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-19T15:25:54,1BTC-DFI20220119152554
+"Reward / Bonus",0.00000042000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-19T00:01:00,BTC20220119000100_Commission
+"Reward / Bonus",2.20184950000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-19T00:01:00,DFI20220119000100_Rewards
+"Reward / Bonus",0.01341338000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-19T00:01:00,DFI20220119000100_Commission
+"Income (non taxable)",2.819E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-18T15:27:44,1BTC-DFI20220118152744
+"Other Expense",,,0.00331391000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-18T15:27:44,1BTC-DFI20220118152744
+"Other Expense",,,0.00000024000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-18T15:27:44,1BTC-DFI20220118152744
+"Reward / Bonus",0.00000086000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-18T00:01:00,BTC20220118000100_Commission
+"Reward / Bonus",2.22447381000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-18T00:01:00,DFI20220118000100_Rewards
+"Reward / Bonus",0.01594366000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-18T00:01:00,DFI20220118000100_Commission
+"Income (non taxable)",0.00017333,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-17T18:56:38,1BTC-DFI20220117185638
+"Other Expense",,,0.00000148000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-17T18:56:38,1BTC-DFI20220117185638
+"Other Expense",,,0.02031183000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-17T18:56:38,1BTC-DFI20220117185638
+"Reward / Bonus",0.00000053000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-17T00:01:00,BTC20220117000100_Commission
+"Reward / Bonus",2.30132457000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-17T00:01:00,DFI20220117000100_Rewards
+"Reward / Bonus",0.02112476000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-17T00:01:00,DFI20220117000100_Commission
+"Income (non taxable)",0.0002177,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-16T02:14:33,1BTC-DFI20220116021433
+"Other Expense",,,0.00000185000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-16T02:14:33,1BTC-DFI20220116021433
+"Other Expense",,,0.02563250000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-16T02:14:33,1BTC-DFI20220116021433
+"Reward / Bonus",0.00000045000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-16T00:01:00,BTC20220116000100_Commission
+"Reward / Bonus",2.35499047000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-16T00:01:00,DFI20220116000100_Rewards
+"Reward / Bonus",0.01918273000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-16T00:01:00,DFI20220116000100_Commission
+"Reward / Bonus",0.00000112000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-15T00:01:00,BTC20220115000100_Commission
+"Reward / Bonus",2.26225365000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-15T00:01:00,DFI20220115000100_Rewards
+"Reward / Bonus",0.01742874000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-15T00:01:00,DFI20220115000100_Commission
+"Income (non taxable)",8.785E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-14T15:36:06,1BTC-DFI20220114153606
+"Other Expense",,,0.00000074000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-14T15:36:06,1BTC-DFI20220114153606
+"Other Expense",,,0.01043523000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-14T15:36:06,1BTC-DFI20220114153606
+"Reward / Bonus",0.00000136000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-14T00:01:00,BTC20220114000100_Commission
+"Reward / Bonus",2.34465463000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-14T00:01:00,DFI20220114000100_Rewards
+"Reward / Bonus",0.01663932000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-14T00:01:00,DFI20220114000100_Commission
+"Income (non taxable)",0.0002023,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-13T15:31:24,1BTC-DFI20220113153124
+"Other Expense",,,0.02408532000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-13T15:31:24,1BTC-DFI20220113153124
+"Other Expense",,,0.00000170000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-13T15:31:24,1BTC-DFI20220113153124
+"Reward / Bonus",0.00000063000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-13T00:01:00,BTC20220113000100_Commission
+"Reward / Bonus",2.41515035000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-13T00:01:00,DFI20220113000100_Rewards
+"Reward / Bonus",0.02110494000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-13T00:01:00,DFI20220113000100_Commission
+"Income (non taxable)",0.00024187,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-12T15:39:49,1BTC-DFI20220112153949
+"Other Expense",,,0.02869024000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-12T15:39:49,1BTC-DFI20220112153949
+"Other Expense",,,0.00000204000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-12T15:39:49,1BTC-DFI20220112153949
+"Reward / Bonus",0.00000078000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-12T00:01:00,BTC20220112000100_Commission
+"Reward / Bonus",2.52399443000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-12T00:01:00,DFI20220112000100_Rewards
+"Reward / Bonus",0.02200152000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-12T00:01:00,DFI20220112000100_Commission
+"Income (non taxable)",5.841E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-11T15:29:06,1BTC-DFI20220111152906
+"Other Expense",,,0.00000049000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-11T15:29:06,1BTC-DFI20220111152906
+"Other Expense",,,0.00696630000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-11T15:29:06,1BTC-DFI20220111152906
+"Reward / Bonus",0.00000265000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-11T00:01:00,BTC20220111000100_Commission
+"Reward / Bonus",2.62448689000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-11T00:01:00,DFI20220111000100_Rewards
+"Reward / Bonus",0.04553113000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-11T00:01:00,DFI20220111000100_Commission
+"Income (non taxable)",0.00024003,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-10T15:30:21,1BTC-DFI20220110153021
+"Other Expense",,,0.02854575000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-10T15:30:21,1BTC-DFI20220110153021
+"Other Expense",,,0.00000202000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-10T15:30:21,1BTC-DFI20220110153021
+"Reward / Bonus",0.00000110000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-10T00:01:00,BTC20220110000100_Commission
+"Reward / Bonus",2.51765162000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-10T00:01:00,DFI20220110000100_Rewards
+"Reward / Bonus",0.02019124000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-10T00:01:00,DFI20220110000100_Commission
+"Income (non taxable)",0.00010529,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-09T18:30:56,1BTC-DFI20220109183056
+"Other Expense",,,0.01274849000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-09T18:30:56,1BTC-DFI20220109183056
+"Other Expense",,,0.00000087000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-09T18:30:56,1BTC-DFI20220109183056
+"Reward / Bonus",0.00000161000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-09T00:01:00,BTC20220109000100_Commission
+"Reward / Bonus",2.70439151000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-09T00:01:00,DFI20220109000100_Rewards
+"Reward / Bonus",0.01366235000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-09T00:01:00,DFI20220109000100_Commission
+"Income (non taxable)",0.00025446,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-08T21:07:09,1BTC-DFI20220108210709
+"Other Expense",,,0.00000215000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-08T21:07:09,1BTC-DFI20220108210709
+"Other Expense",,,0.03013053000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-08T21:07:09,1BTC-DFI20220108210709
+"Reward / Bonus",0.00000111000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-08T00:01:00,BTC20220108000100_Commission
+"Reward / Bonus",2.63374973000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-08T00:01:00,DFI20220108000100_Rewards
+"Reward / Bonus",0.03197079000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-08T00:01:00,DFI20220108000100_Commission
+"Income (non taxable)",0.00016886,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-07T15:22:40,1BTC-DFI20220107152240
+"Other Expense",,,0.01927638000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-07T15:22:40,1BTC-DFI20220107152240
+"Other Expense",,,0.00000148000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-07T15:22:40,1BTC-DFI20220107152240
+"Reward / Bonus",0.00000176000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-07T00:01:00,BTC20220107000100_Commission
+"Reward / Bonus",2.68764641000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-07T00:01:00,DFI20220107000100_Rewards
+"Reward / Bonus",0.05147076000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-07T00:01:00,DFI20220107000100_Commission
+"Income (non taxable)",0.00024907,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-06T15:15:26,1BTC-DFI20220106151526
+"Other Expense",,,0.00000218000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-06T15:15:26,1BTC-DFI20220106151526
+"Other Expense",,,0.02846962000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-06T15:15:26,1BTC-DFI20220106151526
+"Reward / Bonus",0.00000208000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-06T00:01:00,BTC20220106000100_Commission
+"Reward / Bonus",2.61374747000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-06T00:01:00,DFI20220106000100_Rewards
+"Reward / Bonus",0.06917555000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-06T00:01:00,DFI20220106000100_Commission
+"Income (non taxable)",0.00013738,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-05T15:24:33,1BTC-DFI20220105152433
+"Other Expense",,,0.01560626000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-05T15:24:33,1BTC-DFI20220105152433
+"Other Expense",,,0.00000121000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-05T15:24:33,1BTC-DFI20220105152433
+"Reward / Bonus",0.00000097000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-05T00:01:00,BTC20220105000100_Commission
+"Reward / Bonus",2.67200551000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-05T00:01:00,DFI20220105000100_Rewards
+"Reward / Bonus",0.02611595000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-05T00:01:00,DFI20220105000100_Commission
+"Income (non taxable)",0.0002331,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-04T15:23:14,1BTC-DFI20220104152314
+"Other Expense",,,0.02626423000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-04T15:23:14,1BTC-DFI20220104152314
+"Other Expense",,,0.00000207000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-04T15:23:14,1BTC-DFI20220104152314
+"Reward / Bonus",0.00000176000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-04T00:01:00,BTC20220104000100_Commission
+"Reward / Bonus",2.81921478000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-04T00:01:00,DFI20220104000100_Rewards
+"Reward / Bonus",0.03907551000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-04T00:01:00,DFI20220104000100_Commission
+"Income (non taxable)",1.40861299,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-03T21:46:23,1BTC-DFI20220103214623
+"Other Expense",,,158.92440492000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-03T21:46:23,1BTC-DFI20220103214623
+"Other Expense",,,0.01249174000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-03T21:46:23,1BTC-DFI20220103214623
+"Income (non taxable)",0.00228875,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-03T20:57:24,1ETH-DFI20220103205724
+"Other Expense",,,0.07572824000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2022-01-03T20:57:24,1ETH-DFI20220103205724
+"Other Expense",,,0.00006931000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2022-01-03T20:57:24,1ETH-DFI20220103205724
+"Income (non taxable)",0.00118593,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-03T20:56:35,1BTC-DFI20220103205635
+"Other Expense",,,0.13446338000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-03T20:56:35,1BTC-DFI20220103205635
+"Other Expense",,,0.00001049000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-03T20:56:35,1BTC-DFI20220103205635
+"Income (non taxable)",0.60806324,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-03T20:56:00,1USDC-DFI20220103205600
+"Other Expense",,,1.13132530000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2022-01-03T20:56:00,1USDC-DFI20220103205600
+"Other Expense",,,0.33480257000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2022-01-03T20:56:00,1USDC-DFI20220103205600
+"Reward / Bonus",0.00000280000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-03T00:01:00,BTC20220103000100_Commission
+"Reward / Bonus",2.95593981000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-03T00:01:00,DFI20220103000100_Rewards
+"Reward / Bonus",0.04509886000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-03T00:01:00,DFI20220103000100_Commission
+"Income (non taxable)",0.23754375,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-02T21:30:33,1USDC-DFI20220102213033
+"Other Expense",,,0.13142932000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2022-01-02T21:30:33,1USDC-DFI20220102213033
+"Other Expense",,,0.43950514000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2022-01-02T21:30:33,1USDC-DFI20220102213033
+"Income (non taxable)",0.00046196,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-02T16:30:04,1BTC-DFI20220102163004
+"Other Expense",,,0.00000409000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-02T16:30:04,1BTC-DFI20220102163004
+"Other Expense",,,0.05221220000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-02T16:30:04,1BTC-DFI20220102163004
+"Income (non taxable)",0.00021101,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-02T16:17:50,1ETH-DFI20220102161750
+"Other Expense",,,0.00000649000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2022-01-02T16:17:50,1ETH-DFI20220102161750
+"Other Expense",,,0.00688573000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2022-01-02T16:17:50,1ETH-DFI20220102161750
+"Reward / Bonus",0.00000276000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-02T00:01:00,BTC20220102000100_Commission
+"Reward / Bonus",0.00004872000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-02T00:01:00,ETH20220102000100_Commission
+"Reward / Bonus",4.34337834000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-02T00:01:00,DFI20220102000100_Rewards
+"Reward / Bonus",0.40490097000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-02T00:01:00,DFI20220102000100_Commission
+"Reward / Bonus",0.90311552000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-02T00:01:00,USDC20220102000100_Commission
+"Income (non taxable)",0.28585462,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-01T16:40:18,1USDC-DFI20220101164018
+"Other Expense",,,0.54849885000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2022-01-01T16:40:18,1USDC-DFI20220101164018
+"Other Expense",,,0.15317583000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2022-01-01T16:40:18,1USDC-DFI20220101164018
+"Income (non taxable)",0.00095486,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-01T16:39:08,1BTC-DFI20220101163908
+"Other Expense",,,0.00000851000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-01T16:39:08,1BTC-DFI20220101163908
+"Other Expense",,,0.10718194000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2022-01-01T16:39:08,1BTC-DFI20220101163908
+"Income (non taxable)",0.00183418,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2022-01-01T16:33:30,1ETH-DFI20220101163330
+"Other Expense",,,0.00005709000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2022-01-01T16:33:30,1ETH-DFI20220101163330
+"Other Expense",,,0.05901288000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2022-01-01T16:33:30,1ETH-DFI20220101163330
+"Reward / Bonus",0.00001133000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-01T00:01:00,BTC20220101000100_Commission
+"Reward / Bonus",0.00002666000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-01T00:01:00,ETH20220101000100_Commission
+"Reward / Bonus",2.71221924000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-01T00:01:00,DFI20220101000100_Rewards
+"Reward / Bonus",0.24717794000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-01T00:01:00,DFI20220101000100_Commission
+"Reward / Bonus",0.38793383000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2022-01-01T00:01:00,USDC20220101000100_Commission
+"Income (non taxable)",0.13662097,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-31T18:05:14,1USDC-DFI20211231180514
+"Other Expense",,,0.07560338000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-31T18:05:14,1USDC-DFI20211231180514
+"Other Expense",,,0.25272962000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-31T18:05:14,1USDC-DFI20211231180514
+"Income (non taxable)",7.48E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-31T18:02:37,1BTC-DFI20211231180237
+"Other Expense",,,0.00888648000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-31T18:02:37,1BTC-DFI20211231180237
+"Other Expense",,,0.00000063000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-31T18:02:37,1BTC-DFI20211231180237
+"Income (non taxable)",0.00043782,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-31T18:01:35,1ETH-DFI20211231180135
+"Other Expense",,,0.00001315000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-31T18:01:35,1ETH-DFI20211231180135
+"Other Expense",,,0.01459616000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-31T18:01:35,1ETH-DFI20211231180135
+"Reward / Bonus",0.00000925000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-31T00:01:00,BTC20211231000100_Commission
+"Reward / Bonus",0.00005626000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-31T00:01:00,ETH20211231000100_Commission
+"Reward / Bonus",4.40897812000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-31T00:01:00,DFI20211231000100_Rewards
+"Reward / Bonus",0.34467777000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-31T00:01:00,DFI20211231000100_Commission
+"Reward / Bonus",0.77608337000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-31T00:01:00,USDC20211231000100_Commission
+"Income (non taxable)",0.16891689,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-30T15:36:57,1USDC-DFI20211230153657
+"Other Expense",,,0.09283401000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-30T15:36:57,1USDC-DFI20211230153657
+"Other Expense",,,0.31463072000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-30T15:36:57,1USDC-DFI20211230153657
+"Income (non taxable)",0.0001127,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-30T15:33:39,1BTC-DFI20211230153339
+"Other Expense",,,0.00000096000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-30T15:33:39,1BTC-DFI20211230153339
+"Other Expense",,,0.01323669000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-30T15:33:39,1BTC-DFI20211230153339
+"Income (non taxable)",0.00033975,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-30T15:33:02,1ETH-DFI20211230153302
+"Other Expense",,,0.01123248000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-30T15:33:02,1ETH-DFI20211230153302
+"Other Expense",,,0.00001029000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-30T15:33:02,1ETH-DFI20211230153302
+"Reward / Bonus",0.00000060000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-30T00:01:00,BTC20211230000100_Commission
+"Reward / Bonus",0.00001266000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-30T00:01:00,ETH20211230000100_Commission
+"Reward / Bonus",4.55793056000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-30T00:01:00,DFI20211230000100_Rewards
+"Reward / Bonus",0.12900539000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-30T00:01:00,DFI20211230000100_Commission
+"Reward / Bonus",0.26890068000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-30T00:01:00,USDC20211230000100_Commission
+"Income (non taxable)",0.12756468,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-29T15:26:23,1USDC-DFI20211229152623
+"Other Expense",,,0.06976129000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-29T15:26:23,1USDC-DFI20211229152623
+"Other Expense",,,0.23878444000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-29T15:26:23,1USDC-DFI20211229152623
+"Income (non taxable)",0.00011022,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-29T15:25:27,1BTC-DFI20211229152527
+"Other Expense",,,0.00000094000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-29T15:25:27,1BTC-DFI20211229152527
+"Other Expense",,,0.01293158000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-29T15:25:27,1BTC-DFI20211229152527
+"Income (non taxable)",0.00038599,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-29T15:24:35,1ETH-DFI20211229152435
+"Other Expense",,,0.00001162000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-29T15:24:35,1ETH-DFI20211229152435
+"Other Expense",,,0.01283871000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-29T15:24:35,1ETH-DFI20211229152435
+"Reward / Bonus",0.00000072000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-29T00:01:00,BTC20211229000100_Commission
+"Reward / Bonus",0.00000563000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-29T00:01:00,ETH20211229000100_Commission
+"Reward / Bonus",4.28794324000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-29T00:01:00,DFI20211229000100_Rewards
+"Reward / Bonus",0.08801339000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-29T00:01:00,DFI20211229000100_Commission
+"Reward / Bonus",0.21173802000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-29T00:01:00,USDC20211229000100_Commission
+"Income (non taxable)",0.20447167,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-28T15:20:12,1USDC-DFI20211228152012
+"Other Expense",,,0.38632256000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-28T15:20:12,1USDC-DFI20211228152012
+"Other Expense",,,0.11078301000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-28T15:20:12,1USDC-DFI20211228152012
+"Income (non taxable)",0.00040698,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-28T15:19:50,1BTC-DFI20211228151950
+"Other Expense",,,0.04775241000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-28T15:19:50,1BTC-DFI20211228151950
+"Other Expense",,,0.00000347000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-28T15:19:50,1BTC-DFI20211228151950
+"Income (non taxable)",0.00142351,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-28T15:18:42,1ETH-DFI20211228151842
+"Other Expense",,,0.04760811000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-28T15:18:42,1ETH-DFI20211228151842
+"Other Expense",,,0.00004262000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-28T15:18:42,1ETH-DFI20211228151842
+"Reward / Bonus",0.00000102000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-28T00:01:00,BTC20211228000100_Commission
+"Reward / Bonus",0.00001379000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-28T00:01:00,ETH20211228000100_Commission
+"Reward / Bonus",4.55968174000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-28T00:01:00,DFI20211228000100_Rewards
+"Reward / Bonus",0.11443762000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-28T00:01:00,DFI20211228000100_Commission
+"Reward / Bonus",0.30834492000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-28T00:01:00,USDC20211228000100_Commission
+"Income (non taxable)",0.23116566,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-27T15:32:14,1USDC-DFI20211227153214
+"Other Expense",,,0.12588758000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-27T15:32:14,1USDC-DFI20211227153214
+"Other Expense",,,0.43547315000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-27T15:32:14,1USDC-DFI20211227153214
+"Income (non taxable)",0.00062252,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-27T15:30:25,1BTC-DFI20211227153025
+"Other Expense",,,0.07403957000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-27T15:30:25,1BTC-DFI20211227153025
+"Other Expense",,,0.00000524000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-27T15:30:25,1BTC-DFI20211227153025
+"Income (non taxable)",0.00125056,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-27T15:25:55,1ETH-DFI20211227152555
+"Other Expense",,,0.04246079000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-27T15:25:55,1ETH-DFI20211227152555
+"Other Expense",,,0.00003688000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-27T15:25:55,1ETH-DFI20211227152555
+"Reward / Bonus",0.00000075000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-27T00:01:00,BTC20211227000100_Commission
+"Reward / Bonus",0.00004253000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-27T00:01:00,ETH20211227000100_Commission
+"Reward / Bonus",4.39591009000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-27T00:01:00,DFI20211227000100_Rewards
+"Reward / Bonus",0.12847636000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-27T00:01:00,DFI20211227000100_Commission
+"Reward / Bonus",0.26336459000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-27T00:01:00,USDC20211227000100_Commission
+"Income (non taxable)",0.06772982,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-26T18:03:08,1USDC-DFI20211226180308
+"Other Expense",,,0.03724253000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-26T18:03:08,1USDC-DFI20211226180308
+"Other Expense",,,0.12643212000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-26T18:03:08,1USDC-DFI20211226180308
+"Income (non taxable)",7.366E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-26T17:59:56,1BTC-DFI20211226175956
+"Other Expense",,,0.00000061000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-26T17:59:56,1BTC-DFI20211226175956
+"Other Expense",,,0.00889930000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-26T17:59:56,1BTC-DFI20211226175956
+"Income (non taxable)",0.00011206,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-26T17:58:28,1ETH-DFI20211226175828
+"Other Expense",,,0.00000325000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-26T17:58:28,1ETH-DFI20211226175828
+"Other Expense",,,0.00386935000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-26T17:58:28,1ETH-DFI20211226175828
+"Reward / Bonus",0.00000629000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-26T00:01:00,BTC20211226000100_Commission
+"Reward / Bonus",0.00002086000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-26T00:01:00,ETH20211226000100_Commission
+"Reward / Bonus",4.53538153000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-26T00:01:00,DFI20211226000100_Rewards
+"Reward / Bonus",0.23528565000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-26T00:01:00,DFI20211226000100_Commission
+"Reward / Bonus",0.53039936000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-26T00:01:00,USDC20211226000100_Commission
+"Income (non taxable)",0.15475177,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-25T18:06:33,1USDC-DFI20211225180633
+"Other Expense",,,0.08496663000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-25T18:06:33,1USDC-DFI20211225180633
+"Other Expense",,,0.28851702000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-25T18:06:33,1USDC-DFI20211225180633
+"Income (non taxable)",1.937E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-25T18:03:52,1BTC-DFI20211225180352
+"Other Expense",,,0.00234640000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-25T18:03:52,1BTC-DFI20211225180352
+"Other Expense",,,0.00000016000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-25T18:03:52,1BTC-DFI20211225180352
+"Income (non taxable)",0.00015445,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-25T18:03:01,1ETH-DFI20211225180301
+"Other Expense",,,0.00530837000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-25T18:03:01,1ETH-DFI20211225180301
+"Other Expense",,,0.00000450000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-25T18:03:01,1ETH-DFI20211225180301
+"Reward / Bonus",0.00000254000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-25T00:01:00,BTC20211225000100_Commission
+"Reward / Bonus",0.00002322000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-25T00:01:00,ETH20211225000100_Commission
+"Reward / Bonus",4.54053190000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-25T00:01:00,DFI20211225000100_Rewards
+"Reward / Bonus",0.10573236000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-25T00:01:00,DFI20211225000100_Commission
+"Reward / Bonus",0.22062695000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-25T00:01:00,USDC20211225000100_Commission
+"Income (non taxable)",0.24288579,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-24T17:15:18,1USDC-DFI20211224171518
+"Other Expense",,,0.45788393000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-24T17:15:18,1USDC-DFI20211224171518
+"Other Expense",,,0.13188523000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-24T17:15:18,1USDC-DFI20211224171518
+"Income (non taxable)",6.995E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-24T17:12:07,1BTC-DFI20211224171207
+"Other Expense",,,0.00843950000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-24T17:12:07,1BTC-DFI20211224171207
+"Other Expense",,,0.00000058000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-24T17:12:07,1BTC-DFI20211224171207
+"Income (non taxable)",0.00023681,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-24T17:08:02,1ETH-DFI20211224170802
+"Other Expense",,,0.00809165000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-24T17:08:02,1ETH-DFI20211224170802
+"Other Expense",,,0.00000694000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-24T17:08:02,1ETH-DFI20211224170802
+"Reward / Bonus",0.00000018000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-24T00:01:00,BTC20211224000100_Commission
+"Reward / Bonus",0.00000424000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-24T00:01:00,ETH20211224000100_Commission
+"Reward / Bonus",4.46719627000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-24T00:01:00,DFI20211224000100_Rewards
+"Reward / Bonus",0.09995909000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-24T00:01:00,DFI20211224000100_Commission
+"Reward / Bonus",0.25534929000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-24T00:01:00,USDC20211224000100_Commission
+"Income (non taxable)",0.19703268,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-23T16:38:38,1USDC-DFI20211223163838
+"Other Expense",,,0.36582289000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-23T16:38:38,1USDC-DFI20211223163838
+"Other Expense",,,0.10862927000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-23T16:38:38,1USDC-DFI20211223163838
+"Income (non taxable)",9.472E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-23T16:37:28,1BTC-DFI20211223163728
+"Other Expense",,,0.00000080000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-23T16:37:28,1BTC-DFI20211223163728
+"Other Expense",,,0.01122025000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-23T16:37:28,1BTC-DFI20211223163728
+"Income (non taxable)",0.00074288,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-23T16:36:54,1ETH-DFI20211223163654
+"Other Expense",,,0.00002187000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-23T16:36:54,1ETH-DFI20211223163654
+"Other Expense",,,0.02526776000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-23T16:36:54,1ETH-DFI20211223163654
+"Reward / Bonus",0.00000032000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-23T00:01:00,BTC20211223000100_Commission
+"Reward / Bonus",0.00000483000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-23T00:01:00,ETH20211223000100_Commission
+"Reward / Bonus",4.49264056000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-23T00:01:00,DFI20211223000100_Rewards
+"Reward / Bonus",0.11624073000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-23T00:01:00,DFI20211223000100_Commission
+"Reward / Bonus",0.28949168000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-23T00:01:00,USDC20211223000100_Commission
+"Income (non taxable)",0.19848856,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-22T15:27:49,1USDC-DFI20211222152749
+"Other Expense",,,0.37785488000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-22T15:27:49,1USDC-DFI20211222152749
+"Other Expense",,,0.10672995000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-22T15:27:49,1USDC-DFI20211222152749
+"Income (non taxable)",0.00091216,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-22T15:25:08,1ETH-DFI20211222152508
+"Other Expense",,,0.00002727000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-22T15:25:08,1ETH-DFI20211222152508
+"Other Expense",,,0.03055126000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-22T15:25:08,1ETH-DFI20211222152508
+"Income (non taxable)",4.43E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-22T15:25:03,1BTC-DFI20211222152503
+"Other Expense",,,0.00516863000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-22T15:25:03,1BTC-DFI20211222152503
+"Other Expense",,,0.00000038000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-22T15:25:03,1BTC-DFI20211222152503
+"Reward / Bonus",0.00000087000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-22T00:01:00,BTC20211222000100_Commission
+"Reward / Bonus",0.00001357000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-22T00:01:00,ETH20211222000100_Commission
+"Reward / Bonus",4.58996867000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-22T00:01:00,DFI20211222000100_Rewards
+"Reward / Bonus",0.20433136000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-22T00:01:00,DFI20211222000100_Commission
+"Reward / Bonus",0.46472055000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-22T00:01:00,USDC20211222000100_Commission
+"Income (non taxable)",0.2070464,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-21T14:24:44,1USDC-DFI20211221142444
+"Other Expense",,,0.11075237000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-21T14:24:44,1USDC-DFI20211221142444
+"Other Expense",,,0.39637560000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-21T14:24:44,1USDC-DFI20211221142444
+"Income (non taxable)",7.431E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-21T14:21:35,1BTC-DFI20211221142135
+"Other Expense",,,0.00000064000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-21T14:21:35,1BTC-DFI20211221142135
+"Other Expense",,,0.00863243000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-21T14:21:35,1BTC-DFI20211221142135
+"Income (non taxable)",0.00022328,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-21T14:19:23,1ETH-DFI20211221141923
+"Other Expense",,,0.00748420000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-21T14:19:23,1ETH-DFI20211221141923
+"Other Expense",,,0.00000667000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-21T14:19:23,1ETH-DFI20211221141923
+"Reward / Bonus",0.00000038000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-21T00:01:00,BTC20211221000100_Commission
+"Reward / Bonus",0.00002382000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-21T00:01:00,ETH20211221000100_Commission
+"Reward / Bonus",4.58063008000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-21T00:01:00,DFI20211221000100_Rewards
+"Reward / Bonus",0.14948458000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-21T00:01:00,DFI20211221000100_Commission
+"Reward / Bonus",0.31511493000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-21T00:01:00,USDC20211221000100_Commission
+"Income (non taxable)",16.57061958,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-20T18:44:46,1ETH-DFI20211220184446
+"Other Expense",,,0.49901061000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-20T18:44:46,1ETH-DFI20211220184446
+"Other Expense",,,550.97710529000005,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-20T18:44:46,1ETH-DFI20211220184446
+"Income (non taxable)",0.62202648,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-20T15:43:18,1USDC-DFI20211220154318
+"Other Expense",,,1.16390009000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-20T15:43:18,1USDC-DFI20211220154318
+"Other Expense",,,0.34026916000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-20T15:43:18,1USDC-DFI20211220154318
+"Income (non taxable)",0.0001822,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-20T15:40:29,1BTC-DFI20211220154029
+"Other Expense",,,0.00000158000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-20T15:40:29,1BTC-DFI20211220154029
+"Other Expense",,,0.02101901000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-20T15:40:29,1BTC-DFI20211220154029
+"Income (non taxable)",0.00017251,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-20T15:37:43,1ETH-DFI20211220153743
+"Other Expense",,,0.00000521000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-20T15:37:43,1ETH-DFI20211220153743
+"Other Expense",,,0.00571992000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-20T15:37:43,1ETH-DFI20211220153743
+"Reward / Bonus",0.00000049000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-20T00:01:00,BTC20211220000100_Commission
+"Reward / Bonus",0.00002035000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-20T00:01:00,ETH20211220000100_Commission
+"Reward / Bonus",4.51022291000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-20T00:01:00,DFI20211220000100_Rewards
+"Reward / Bonus",0.12132560000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-20T00:01:00,DFI20211220000100_Commission
+"Reward / Bonus",0.36184868000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-20T00:01:00,USDC20211220000100_Commission
+"Reward / Bonus",0.00000111000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-19T00:01:00,BTC20211219000100_Commission
+"Reward / Bonus",0.00000397000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-19T00:01:00,ETH20211219000100_Commission
+"Reward / Bonus",3.05669782000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-19T00:01:00,DFI20211219000100_Rewards
+"Reward / Bonus",0.27209876000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-19T00:01:00,DFI20211219000100_Commission
+"Reward / Bonus",0.77151053000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-19T00:01:00,USDC20211219000100_Commission
+"Income (non taxable)",0.62921748,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-18T18:05:50,1USDC-DFI20211218180550
+"Other Expense",,,0.33166354000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-18T18:05:50,1USDC-DFI20211218180550
+"Other Expense",,,1.22176285000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-18T18:05:50,1USDC-DFI20211218180550
+"Income (non taxable)",0.00020216,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-18T18:04:19,1BTC-DFI20211218180419
+"Other Expense",,,0.00000181000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-18T18:04:19,1BTC-DFI20211218180419
+"Other Expense",,,0.02258996000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-18T18:04:19,1BTC-DFI20211218180419
+"Income (non taxable)",0.00016721,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-18T18:02:58,1ETH-DFI20211218180258
+"Other Expense",,,0.00541506000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-18T18:02:58,1ETH-DFI20211218180258
+"Other Expense",,,0.00000517000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-18T18:02:58,1ETH-DFI20211218180258
+"Reward / Bonus",0.00000068000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-18T00:01:00,BTC20211218000100_Commission
+"Reward / Bonus",0.00000249000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-18T00:01:00,ETH20211218000100_Commission
+"Reward / Bonus",2.62045792000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-18T00:01:00,DFI20211218000100_Rewards
+"Reward / Bonus",0.18452098000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-18T00:01:00,DFI20211218000100_Commission
+"Reward / Bonus",0.48923805000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-18T00:01:00,USDC20211218000100_Commission
+"Reward / Bonus",0.00000044000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-17T00:01:00,BTC20211217000100_Commission
+"Reward / Bonus",0.00000142000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-17T00:01:00,ETH20211217000100_Commission
+"Reward / Bonus",2.63972442000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-17T00:01:00,DFI20211217000100_Rewards
+"Reward / Bonus",0.13335344000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-17T00:01:00,DFI20211217000100_Commission
+"Reward / Bonus",0.42753953000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-17T00:01:00,USDC20211217000100_Commission
+"Income (non taxable)",8.176E-5,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-16T15:47:39,1ETH-DFI20211216154739
+"Other Expense",,,0.00258436000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-16T15:47:39,1ETH-DFI20211216154739
+"Other Expense",,,0.00000259000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-16T15:47:39,1ETH-DFI20211216154739
+"Income (non taxable)",0.00014734,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-16T15:44:39,1BTC-DFI20211216154439
+"Other Expense",,,0.00000135000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-16T15:44:39,1BTC-DFI20211216154439
+"Other Expense",,,0.01608835000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-16T15:44:39,1BTC-DFI20211216154439
+"Income (non taxable)",0.2545,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-16T15:43:00,1USDC-DFI20211216154300
+"Other Expense",,,0.51586241000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-16T15:43:00,1USDC-DFI20211216154300
+"Other Expense",,,0.12848218000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-16T15:43:00,1USDC-DFI20211216154300
+"Reward / Bonus",0.00000141000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-16T00:01:00,BTC20211216000100_Commission
+"Reward / Bonus",0.00000272000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-16T00:01:00,ETH20211216000100_Commission
+"Reward / Bonus",2.77005232000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-16T00:01:00,DFI20211216000100_Rewards
+"Reward / Bonus",0.23949462000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-16T00:01:00,DFI20211216000100_Commission
+"Reward / Bonus",0.70718718000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-16T00:01:00,USDC20211216000100_Commission
+"Income (non taxable)",1.483E-5,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-15T15:41:55,1ETH-DFI20211215154155
+"Other Expense",,,0.00045879000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-15T15:41:55,1ETH-DFI20211215154155
+"Other Expense",,,0.00000048000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-15T15:41:55,1ETH-DFI20211215154155
+"Income (non taxable)",1.869E-5,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-15T15:39:51,1BTC-DFI20211215153951
+"Other Expense",,,0.00000017000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-15T15:39:51,1BTC-DFI20211215153951
+"Other Expense",,,0.00205741000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-15T15:39:51,1BTC-DFI20211215153951
+"Income (non taxable)",0.13922731,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-15T15:39:03,1USDC-DFI20211215153903
+"Other Expense",,,0.07159259000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-15T15:39:03,1USDC-DFI20211215153903
+"Other Expense",,,0.27702772000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-15T15:39:03,1USDC-DFI20211215153903
+"Reward / Bonus",0.00000092000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-15T00:01:00,BTC20211215000100_Commission
+"Reward / Bonus",0.00000131000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-15T00:01:00,ETH20211215000100_Commission
+"Reward / Bonus",2.72927868000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-15T00:01:00,DFI20211215000100_Rewards
+"Reward / Bonus",0.11662827000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-15T00:01:00,DFI20211215000100_Commission
+"Reward / Bonus",0.36281595000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-15T00:01:00,USDC20211215000100_Commission
+"Income (non taxable)",1.85908408,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-15T00:00:16,1USDC-DFI20211215000016
+"Other Expense",,,3.84186591000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-15T00:00:16,1USDC-DFI20211215000016
+"Other Expense",,,0.92012338000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-15T00:00:16,1USDC-DFI20211215000016
+"Income (non taxable)",0.00041491,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-14T23:53:04,1BTC-DFI20211214235304
+"Other Expense",,,0.04438579000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-14T23:53:04,1BTC-DFI20211214235304
+"Other Expense",,,0.00000388000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-14T23:53:04,1BTC-DFI20211214235304
+"Income (non taxable)",0.00111591,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-14T23:50:38,1ETH-DFI20211214235038
+"Other Expense",,,0.00003690000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-14T23:50:38,1ETH-DFI20211214235038
+"Other Expense",,,0.03379097000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-14T23:50:38,1ETH-DFI20211214235038
+"Reward / Bonus",0.00000070000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-14T00:01:00,BTC20211214000100_Commission
+"Reward / Bonus",0.00000290000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-14T00:01:00,ETH20211214000100_Commission
+"Reward / Bonus",2.80511045000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-14T00:01:00,DFI20211214000100_Rewards
+"Reward / Bonus",0.20697438000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-14T00:01:00,DFI20211214000100_Commission
+"Reward / Bonus",0.63280470000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-14T00:01:00,USDC20211214000100_Commission
+"Income (non taxable)",3.52689103,BTC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-13T21:13:07,1BTC-DFI20211213211307
+"Other Expense",,,0.03145000000000,BTC,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-13T21:13:07,1BTC-DFI20211213211307
+"Other Expense",,,395.66010777999998,DFI,,,"DeFiChain Light Wallet",,"Add liquidity BTC-DFI",2021-12-13T21:13:07,1BTC-DFI20211213211307
+"Reward / Bonus",0.00000357000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-13T00:01:00,BTC20211213000100_Commission
+"Reward / Bonus",0.00001439000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-13T00:01:00,ETH20211213000100_Commission
+"Reward / Bonus",2.79450992000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-13T00:01:00,DFI20211213000100_Rewards
+"Reward / Bonus",0.25151093000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-13T00:01:00,DFI20211213000100_Commission
+"Reward / Bonus",1.00014067000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-13T00:01:00,USDC20211213000100_Commission
+"Reward / Bonus",0.00000035000000,BTC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-12T00:01:00,BTC20211212000100_Commission
+"Reward / Bonus",0.00000509000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-12T00:01:00,ETH20211212000100_Commission
+"Reward / Bonus",1.14056818000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-12T00:01:00,DFI20211212000100_Rewards
+"Reward / Bonus",0.47418347000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-12T00:01:00,DFI20211212000100_Commission
+"Reward / Bonus",1.62167939000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-12T00:01:00,USDC20211212000100_Commission
+"Reward / Bonus",0.00000862000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-11T00:01:00,ETH20211211000100_Commission
+"Reward / Bonus",0.92450642000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-11T00:01:00,DFI20211211000100_Rewards
+"Reward / Bonus",0.11965022000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-11T00:01:00,DFI20211211000100_Commission
+"Reward / Bonus",0.38983735000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-11T00:01:00,USDC20211211000100_Commission
+"Income (non taxable)",3.70754791,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-10T18:40:56,1USDC-DFI20211210184056
+"Other Expense",,,1.75101581000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-10T18:40:56,1USDC-DFI20211210184056
+"Other Expense",,,8.02704900000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-10T18:40:56,1USDC-DFI20211210184056
+"Income (non taxable)",0.60628388,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-10T18:32:28,1ETH-DFI20211210183228
+"Other Expense",,,0.02070589000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-10T18:32:28,1ETH-DFI20211210183228
+"Other Expense",,,17.77579320000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-10T18:32:28,1ETH-DFI20211210183228
+"Reward / Bonus",0.00000854000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-10T00:01:00,ETH20211210000100_Commission
+"Reward / Bonus",0.91616492000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-10T00:01:00,DFI20211210000100_Rewards
+"Reward / Bonus",0.15551207000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-10T00:01:00,DFI20211210000100_Commission
+"Reward / Bonus",0.69927787000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-10T00:01:00,USDC20211210000100_Commission
+"Reward / Bonus",0.00000479000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-09T00:01:00,ETH20211209000100_Commission
+"Reward / Bonus",0.88937009000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-09T00:01:00,DFI20211209000100_Rewards
+"Reward / Bonus",0.12874754000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-09T00:01:00,DFI20211209000100_Commission
+"Reward / Bonus",0.56054822000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-09T00:01:00,USDC20211209000100_Commission
+"Reward / Bonus",0.00000940000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-08T00:01:00,ETH20211208000100_Commission
+"Reward / Bonus",0.93690980000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-08T00:01:00,DFI20211208000100_Rewards
+"Reward / Bonus",0.22870461000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-08T00:01:00,DFI20211208000100_Commission
+"Reward / Bonus",1.03704502000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-08T00:01:00,USDC20211208000100_Commission
+"Reward / Bonus",0.00000279000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-07T00:01:00,ETH20211207000100_Commission
+"Reward / Bonus",1.05780828000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-07T00:01:00,DFI20211207000100_Rewards
+"Reward / Bonus",0.15764537000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-07T00:01:00,DFI20211207000100_Commission
+"Reward / Bonus",0.71542032000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-07T00:01:00,USDC20211207000100_Commission
+"Reward / Bonus",0.00000975000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-06T00:01:00,ETH20211206000100_Commission
+"Reward / Bonus",0.67154798000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-06T00:01:00,DFI20211206000100_Rewards
+"Reward / Bonus",0.17030172000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-06T00:01:00,DFI20211206000100_Commission
+"Reward / Bonus",0.76075819000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-06T00:01:00,USDC20211206000100_Commission
+"Reward / Bonus",0.00001437000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-05T00:01:00,ETH20211205000100_Commission
+"Reward / Bonus",1.07645157000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-05T00:01:00,DFI20211205000100_Rewards
+"Reward / Bonus",0.57126270000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-05T00:01:00,DFI20211205000100_Commission
+"Reward / Bonus",2.43571079000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-05T00:01:00,USDC20211205000100_Commission
+"Reward / Bonus",0.00001640000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-04T00:01:00,ETH20211204000100_Commission
+"Reward / Bonus",0.94629061000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-04T00:01:00,DFI20211204000100_Rewards
+"Reward / Bonus",0.20931237000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-04T00:01:00,DFI20211204000100_Commission
+"Reward / Bonus",0.99928673000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-04T00:01:00,USDC20211204000100_Commission
+"Reward / Bonus",0.00001129000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-03T00:01:00,ETH20211203000100_Commission
+"Reward / Bonus",0.95633835000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-03T00:01:00,DFI20211203000100_Rewards
+"Reward / Bonus",0.21965275000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-03T00:01:00,DFI20211203000100_Commission
+"Reward / Bonus",0.91791648000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-03T00:01:00,USDC20211203000100_Commission
+"Income (non taxable)",0.01666561,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-02T22:18:43,1USDC-DFI20211202221843
+"Other Expense",,,0.03426333000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-02T22:18:43,1USDC-DFI20211202221843
+"Other Expense",,,0.00826310000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-02T22:18:43,1USDC-DFI20211202221843
+"Income (non taxable)",2.9535711,ETH-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-02T19:06:20,1ETH-DFI20211202190620
+"Other Expense",,,0.08734600000000,ETH,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-02T19:06:20,1ETH-DFI20211202190620
+"Other Expense",,,100.00000000000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity ETH-DFI",2021-12-02T19:06:20,1ETH-DFI20211202190620
+"Income (non taxable)",275.97597447,USDC-DFI,,,,,"DeFiChain Light Wallet",,"Added liquidity",2021-12-02T18:32:26,1USDC-DFI20211202183226
+"Other Expense",,,139.13501778000000,USDC,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-02T18:32:26,1USDC-DFI20211202183226
+"Other Expense",,,558.00000000000000,DFI,,,"DeFiChain Light Wallet",,"Add liquidity USDC-DFI",2021-12-02T18:32:26,1USDC-DFI20211202183226
+"Reward / Bonus",0.00002350000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-02T00:01:00,ETH20211202000100_Commission
+"Reward / Bonus",0.94160512000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-02T00:01:00,DFI20211202000100_Rewards
+"Reward / Bonus",0.15045586000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-02T00:01:00,DFI20211202000100_Commission
+"Reward / Bonus",0.72043846000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-02T00:01:00,USDC20211202000100_Commission
+"Reward / Bonus",0.00000234000000,ETH,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-01T00:01:00,ETH20211201000100_Commission
+"Reward / Bonus",0.21353320000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-01T00:01:00,DFI20211201000100_Rewards
+"Reward / Bonus",0.00803361000000,DFI,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-01T00:01:00,DFI20211201000100_Commission
+"Reward / Bonus",0.05081811000000,USDC,,,,,"DeFiChain Light Wallet",,"Liquidity mining reward ETH-DFI",2021-12-01T00:01:00,USDC20211201000100_Commission
